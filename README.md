@@ -1,4 +1,4 @@
-# WIKI_COMMOM_WORDS
+# WIKI_COMMON_WORDS
 
 The code takes a wiki api json link and return n top common words. 
 
